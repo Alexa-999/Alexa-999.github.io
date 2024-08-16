@@ -26,7 +26,7 @@ Dirección: Pocuro 1046, Valparaíso, Chile.
 
 - Inglés intermedio.
 
-- Aprendiz Autodidacta, siempre en búsqueda de nuevos conocimientos.
+- Aprendiz Autodidacta, en constante búsqueda de nuevos conocimientos.
 
 ---
 
