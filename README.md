@@ -18,7 +18,7 @@ Código Postal: 2340000
 ### Experiencia Profesional:
 ##### **Conserje Part time**
 Edificio Fermín Vivaceta, Valparaíso | 2023 - Actualidad.
-Resguardo del orden y la seguridad. Gesti{on y reporte de incidentes. Ateción al público. Monitoreo de cámaras CCTV.
+Resguardo del orden y la seguridad. Gestión y reporte de incidentes. Ateción al público. Monitoreo de cámaras CCTV.
 
 # Educación:
 
