@@ -1,17 +1,20 @@
 # Alexandra Gal Costa Pereira
 ---
-Rut: 19.176.720-9
-Nacionalidad: Chilena
-Estado civil: Soltera
+Rut: 19.176.720-9 |
+Nacionalidad: Chilena |
+Estado civil: Soltera |
 Código Postal: 2340000
+
+---
 
 ## Perfil:
 
-- Conocimientos digitales
-- Certificación en Lengua de Señas Chilena LSCH
-- Habilidades Artísticas y creatividad
-- Nivel de Inglés Intermedio
-- Aprendiz Autodidacta. En constante búsqueda de nuevos conocimientos.
+- *Capacitación en Ciberseguridad*
+- *Conocimiento y uso de herramientas digitales*
+- *Certificación en Lengua de Señas Chilena LSCH*
+- *Habilidades Artísticas y creatividad*
+- *Nivel de Inglés Intermedio*
+- *Aprendiz Autodidacta. En constante búsqueda de nuevos conocimientos.*
 
 ---
 
