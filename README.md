@@ -5,6 +5,7 @@
 
 (+56) 935962702  
 Valparaíso, Chile.
+
 costagalexa@gmail.com 
  
 ## Perfil:  
@@ -32,10 +33,10 @@ Administración Edificio Fermín Vivaceta
 - **Curso Lengua de Señas Chilena** (LSCH) | *“Mis manos, mi voz”* | 2019, Valparaíso.  
  
 ### Habilidades:  
-Manejo de Office | Google Workspace (Docs, Slides) | Outlook | Zoom | HTML | CSS
-Google drive | Vwmare y VirtualBox | Calibre | Canva | Ibis Paint X | Clip Studio paint 
-Perfil analítico | Atención a los detalles | Colaborativo y trabajo en equipo 
-Comunicación asertiva | Atención al cliente | Habilidades Artísticas y creatividad
+| Manejo de Office | Google Workspace (Docs, Slides) | Outlook | Zoom | HTML | CSS
+Google drive | Vwmare y VirtualBox | Calibre | Canva | Ibis Paint X | Clip Studio paint |
+Perfil analítico | Atención a los detalles | Colaborativo y trabajo en equipo |
+Comunicación asertiva | Atención al cliente | Habilidades Artísticas y creatividad |
  
 ### Idiomas: 
  
